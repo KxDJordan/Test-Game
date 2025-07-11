@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"House 1 (Local)","order":1,"parentId":0,"scrollX":811,"scrollY":457.5,"quick":false},
-{"id":2,"expanded":false,"name":"Mountain Village (Sync)","order":3,"parentId":0,"scrollX":811,"scrollY":702.5,"quick":false},
+{"id":2,"expanded":false,"name":"Mountain Village (Sync)","order":3,"parentId":0,"scrollX":811,"scrollY":741.5,"quick":false},
 {"id":3,"expanded":false,"name":"World 1 (Local)","order":4,"parentId":0,"scrollX":2048,"scrollY":1412.5,"quick":false},
 {"id":4,"expanded":false,"name":"Stone Cave (Sync)","order":5,"parentId":0,"scrollX":811,"scrollY":668.5,"quick":false},
 {"id":5,"expanded":false,"name":"Church (Party)","order":2,"parentId":0,"scrollX":811,"scrollY":577.5,"quick":false},
