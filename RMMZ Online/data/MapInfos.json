@@ -7,9 +7,9 @@ null,
 {"id":5,"expanded":false,"name":"Church (Party)","order":2,"parentId":2,"scrollX":819,"scrollY":577.5,"quick":false},
 {"id":6,"expanded":false,"name":"Tower 1F (Sync)","order":5,"parentId":4,"scrollX":811,"scrollY":469.5,"quick":false},
 {"id":7,"expanded":true,"name":"World Map (Sync)","order":6,"parentId":0,"scrollX":1364,"scrollY":1190.5,"quick":false},
-{"id":8,"expanded":true,"name":"Forest Town (Sync)","order":7,"parentId":7,"scrollX":820,"scrollY":934.5,"quick":false},
+{"id":8,"expanded":true,"name":"Forest Town (Sync)","order":7,"parentId":7,"scrollX":812,"scrollY":1266.5,"quick":false},
 {"id":9,"expanded":false,"name":"Item Shop","order":9,"parentId":8,"scrollX":811,"scrollY":449.5,"quick":false},
 {"id":10,"expanded":false,"name":"Weapon Shop","order":10,"parentId":8,"scrollX":811,"scrollY":449.5,"quick":false},
-{"id":11,"expanded":false,"name":"Tower","order":12,"parentId":7,"scrollX":811,"scrollY":896.5,"quick":false},
+{"id":11,"expanded":false,"name":"Tower (Sync)","order":12,"parentId":7,"scrollX":811,"scrollY":896.5,"quick":false},
 {"id":12,"expanded":false,"name":"Inn 1F","order":11,"parentId":8,"scrollX":819,"scrollY":550.5,"quick":false}
 ]
