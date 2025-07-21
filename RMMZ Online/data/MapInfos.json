@@ -11,5 +11,5 @@ null,
 {"id":9,"expanded":false,"name":"Item Shop","order":9,"parentId":8,"scrollX":811,"scrollY":449.5,"quick":false},
 {"id":10,"expanded":false,"name":"Weapon Shop","order":10,"parentId":8,"scrollX":811,"scrollY":449.5,"quick":false},
 {"id":11,"expanded":false,"name":"Tower","order":12,"parentId":7,"scrollX":811,"scrollY":896.5,"quick":false},
-{"id":12,"expanded":false,"name":"Inn 1F","order":11,"parentId":8,"scrollX":811,"scrollY":550.5,"quick":false}
+{"id":12,"expanded":false,"name":"Inn 1F","order":11,"parentId":8,"scrollX":819,"scrollY":550.5,"quick":false}
 ]
