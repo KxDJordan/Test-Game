@@ -1,5 +1,5 @@
 {
-    "name": "0bf21719c42d4b95a3f281ce81134a54",
+    "name": "rmmz-game",
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
