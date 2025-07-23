@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[43,0,0,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Reid","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"SF_Actor3_7","characterIndex":6,"characterName":"SF_Actor3","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"SF_Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dog","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"SF_Actor3_8","characterIndex":7,"characterName":"SF_Actor3","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"SF_Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cat","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
